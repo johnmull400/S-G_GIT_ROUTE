@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="WORKING CODE FOR JOBS">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="qls-uat-sql01.sr.local\srprod:SGUK\John Mulligan">
+          <Created>2019-04-12T12:29:03.6553946+01:00</Created>
+          <Type>SQL</Type>
+          <Server>qls-uat-sql01.sr.local\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Partner</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="sgs-p4w-sql-t01.sr.local\srprod:SGUK\John Mulligan">
+          <Created>2019-08-23T14:29:10.8838124+01:00</Created>
+          <Type>SQL</Type>
+          <Server>sgs-p4w-sql-t01.sr.local\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="srsql.slatergordon.uk:SGUK\John Mulligan">
+          <Created>2019-07-17T15:26:46.5781165+01:00</Created>
+          <Type>SQL</Type>
+          <Server>srsql.slatergordon.uk</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="RUN-2292 - Change Request - ATE Provider (ULR to Allianz).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:sgs-p4w-sql-t01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>sgs-p4w-sql-t01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RUN-2292 - Change Request - ATE Provider (ULR to Allianz).sql</FullPath>
+        </FileNode>
+        <FileNode Name="RUNP4W-193 Court Hearings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RUNP4W-193 Court Hearings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RUNP4W-247 Partners ofr Matters Draft Trigger Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RUNP4W-247 Partners ofr Matters Draft Trigger Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RUNP4W-308 UNION CNF ATE FAILURE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RUNP4W-308 UNION CNF ATE FAILURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tr_afterinsert_matters DRAFT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tr_afterinsert_matters DRAFT.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

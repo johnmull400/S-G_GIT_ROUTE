@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Oft Used Code">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="qls-uat-sql01.sr.local\srprod:SGUK\John Mulligan">
+          <Created>2019-05-02T12:07:53.7062796+01:00</Created>
+          <Type>SQL</Type>
+          <Server>qls-uat-sql01.sr.local\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Partner</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="srsql.slatergordon.uk:SGUK\John Mulligan">
+          <Created>2019-05-28T09:39:15.9662859+01:00</Created>
+          <Type>SQL</Type>
+          <Server>srsql.slatergordon.uk</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1 ARCHIVE CHECKING CODE FOR TESTING.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1 ARCHIVE CHECKING CODE FOR TESTING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Code for searching for letters on SAM steps that may cause matter contact errors.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1 Code for searching for letters on SAM steps that may cause matter contact errors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Code for updating TASKPAD.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1 Code for updating TASKPAD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Code to trace case steps backwards.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Code to trace case steps backwards.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 CONVEYANCING DOC PERMISSIONS FOR GLOBAL DOCS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1 CONVEYANCING DOC PERMISSIONS FOR GLOBAL DOCS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 FIND TABLES AND ASSOCIATED FIELDS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1 FIND TABLES AND ASSOCIATED FIELDS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 PAULS CODE FOR ECHOSIGN MERGE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>1 PAULS CODE FOR ECHOSIGN MERGE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Query dm docs and answers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Query dm docs and answers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 SAM PENDING STEPS INFO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 SAM PENDING STEPS INFO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="APLICATION ID.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>APLICATION ID.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ATE Lookups.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ATE Lookups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Bulk Update Mergedata.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Bulk Update Mergedata.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CALLBACK.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CALLBACK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cath Brown cases without a medical instruction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Cath Brown cases without a medical instruction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Change incorrectly assigned SUPERVISOR REVIEW on AutoRellocated files.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Change incorrectly assigned SUPERVISOR REVIEW on AutoRellocated files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Change Name of Document.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Change Name of Document.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code for building drop down box data views.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Code for building drop down box data views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CODE FOR TESTING SOW280 MEMOPOSTING.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CODE FOR TESTING SOW280 MEMOPOSTING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code for using output parameers with stored procedures.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Code for using output parameers with stored procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code to parse a column name held in a variable to return a value from a table.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Code to parse a column name held in a variable to return a value from a table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code to synch primary fe with case fe.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Code to synch primary fe with case fe.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code to update MT cases to set the LVPI Flag to NO.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Code to update MT cases to set the LVPI Flag to NO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Correct Select Query for Agendas Case Items and cm_Steps .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Correct Select Query for Agendas Case Items and cm_Steps .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Creating a view.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Creating a view.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Creating NIHL Team views.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Creating NIHL Team views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Delete Duplicate Client.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Delete Duplicate Client.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Delete froma table using inner join.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Delete froma table using inner join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Document Manager Running Slow.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Document Manager Running Slow.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find the last Question(s) in a ste.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Find the last Question(s) in a ste.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Fix for NULL error in Partner.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Fix for NULL error in Partner.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get list of user by Quindell BRANCH.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Get list of user by Quindell BRANCH.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get time period in Years Months and Days.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Get time period in Years Months and Days.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Go live code for SOW262.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Go live code for SOW262.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert into Matter Contacts.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Insert into Matter Contacts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert questions automatically into STEPS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Insert questions automatically into STEPS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LVPI High Level Flow analysis.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>LVPI High Level Flow analysis.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Manually Insert MemoPostings.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Manually Insert MemoPostings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Manually link files.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Manually link files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MatterContacts NULL Row removal.sql.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>MatterContacts NULL Row removal.sql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Medco Communications Table query.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Medco Communications Table query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MOJ Checking Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>MOJ Checking Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Posting Code for SOW301.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Posting Code for SOW301.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PREF COMMS QUERIES.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>PREF COMMS QUERIES.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query Case Actions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Query Case Actions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query to find steps in history that set a given case status.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Query to find steps in history that set a given case status.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query to get USER NAME and or CODE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query to get USER NAME and or CODE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run this and check the fileName column (document path) on a dodgy John Hyder email .sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>run this and check the fileName column (document path) on a dodgy John Hyder email .sql</FullPath>
+        </FileNode>
+        <FileNode Name="sr_proc_Billing_Lookup_Records_srs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sr_proc_Billing_Lookup_Records_srs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sr_proc_Get_NIHL_Quantum_Value_srs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sr_proc_Get_NIHL_Quantum_Value_srs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sr_proc_Update_Defendant_Rep_ID.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sr_proc_Update_Defendant_Rep_ID.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Statement for single record update.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Statement for single record update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TCL Data Code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TCL Data Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trade Union Query.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Trade Union Query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update CreatedByRef to my name.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Update CreatedByRef to my name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update email header paths after export 10 items.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update email header paths after export 10 items.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update email header paths after export 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update email header paths after export 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update email header paths after export.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update email header paths after export.sql</FullPath>
+        </FileNode>
+        <FileNode Name="USING A CUSOR AS A FOR EACH LOOP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>USING A CUSOR AS A FOR EACH LOOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VERY USEFUL - Match a question to a case step on a given files .sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>VERY USEFUL - Match a question to a case step on a given files .sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

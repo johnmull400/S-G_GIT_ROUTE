@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Oft Used Code">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="QLS-UAT-SQL01\SRPROD:SILVERBECK\john mulligan">
+          <Created>2018-09-12T10:40:59.7481534+01:00</Created>
+          <Type>SQL</Type>
+          <Server>QLS-UAT-SQL01\SRPROD</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Partner</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="SGS-P4W-SQL-T01\SRPROD:SILVERBECK\john mulligan">
+          <Created>2018-11-07T11:03:37.2607812+00:00</Created>
+          <Type>SQL</Type>
+          <Server>SGS-P4W-SQL-T01\SRPROD</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1 ARCHIVE CHECKING CODE FOR TESTING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 ARCHIVE CHECKING CODE FOR TESTING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Code for searching for letters on SAM steps that may cause matter contact errors.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Code for searching for letters on SAM steps that may cause matter contact errors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Code for updating TASKPAD.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Code for updating TASKPAD.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Code to trace case steps backwards.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Code to trace case steps backwards.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 CONVEYANCING DOC PERMISSIONS FOR GLOBAL DOCS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 CONVEYANCING DOC PERMISSIONS FOR GLOBAL DOCS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 FIND TABLES AND ASSOCIATED FIELDS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 FIND TABLES AND ASSOCIATED FIELDS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 PAULS CODE FOR ECHOSIGN MERGE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 PAULS CODE FOR ECHOSIGN MERGE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Query dm docs and answers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Query dm docs and answers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 SAM PENDING STEPS INFO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 SAM PENDING STEPS INFO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="APLICATION ID.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>APLICATION ID.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ATE Lookups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ATE Lookups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Bulk Update Mergedata.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Bulk Update Mergedata.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CALLBACK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CALLBACK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cath Brown cases without a medical instruction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cath Brown cases without a medical instruction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Change incorrectly assigned SUPERVISOR REVIEW on AutoRellocated files.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Change incorrectly assigned SUPERVISOR REVIEW on AutoRellocated files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Change Name of Document.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Change Name of Document.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code for building drop down box data views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Code for building drop down box data views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CODE FOR TESTING SOW280 MEMOPOSTING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CODE FOR TESTING SOW280 MEMOPOSTING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code for using output parameers with stored procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Code for using output parameers with stored procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code to parse a column name held in a variable to return a value from a table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Code to parse a column name held in a variable to return a value from a table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code to synch primary fe with case fe.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Code to synch primary fe with case fe.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Code to update MT cases to set the LVPI Flag to NO.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Code to update MT cases to set the LVPI Flag to NO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Correct Select Query for Agendas Case Items and cm_Steps .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Correct Select Query for Agendas Case Items and cm_Steps .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Creating a view.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Creating a view.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Creating NIHL Team views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Creating NIHL Team views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Delete Duplicate Client.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Delete Duplicate Client.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Delete froma table using inner join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Delete froma table using inner join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Document Manager Running Slow.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Document Manager Running Slow.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Find the last Question(s) in a ste.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:SGS-P4W-SQL-T01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>SGS-P4W-SQL-T01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Find the last Question(s) in a ste.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Fix for NULL error in Partner.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Fix for NULL error in Partner.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get list of user by Quindell BRANCH.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get list of user by Quindell BRANCH.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get time period in Years Months and Days.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get time period in Years Months and Days.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Go live code for SOW262.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Go live code for SOW262.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert into Matter Contacts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert into Matter Contacts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert questions automatically into STEPS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert questions automatically into STEPS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LVPI High Level Flow analysis.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LVPI High Level Flow analysis.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Manually Insert MemoPostings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Manually Insert MemoPostings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Manually link files.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Manually link files.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MatterContacts NULL Row removal.sql.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MatterContacts NULL Row removal.sql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Medco Communications Table query.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Medco Communications Table query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MOJ Checking Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MOJ Checking Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Posting Code for SOW301.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Posting Code for SOW301.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PREF COMMS QUERIES.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PREF COMMS QUERIES.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query Case Actions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query Case Actions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query to find steps in history that set a given case status.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query to find steps in history that set a given case status.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query to get USER NAME and or CODE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Query to get USER NAME and or CODE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run this and check the fileName column (document path) on a dodgy John Hyder email .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run this and check the fileName column (document path) on a dodgy John Hyder email .sql</FullPath>
+        </FileNode>
+        <FileNode Name="sr_proc_Billing_Lookup_Records_srs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sr_proc_Billing_Lookup_Records_srs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sr_proc_Get_NIHL_Quantum_Value_srs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sr_proc_Get_NIHL_Quantum_Value_srs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sr_proc_Update_Defendant_Rep_ID.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sr_proc_Update_Defendant_Rep_ID.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Statement for single record update.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Statement for single record update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TCL Data Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TCL Data Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trade Union Query.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trade Union Query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update CreatedByRef to my name.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update CreatedByRef to my name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update email header paths after export 10 items.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update email header paths after export 10 items.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update email header paths after export 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update email header paths after export 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Update email header paths after export.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Update email header paths after export.sql</FullPath>
+        </FileNode>
+        <FileNode Name="USING A CUSOR AS A FOR EACH LOOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>USING A CUSOR AS A FOR EACH LOOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VERY USEFUL - Match a question to a case step on a given files .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:QLS-UAT-SQL01\SRPROD:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>QLS-UAT-SQL01\SRPROD</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VERY USEFUL - Match a question to a case step on a given files .sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

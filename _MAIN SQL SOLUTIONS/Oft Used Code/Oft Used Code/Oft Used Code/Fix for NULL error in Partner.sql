@@ -1,0 +1,2 @@
+
+if (select liability_status from usr_key_data_srs where entityref = 'DAV000000002415' and matterno = 1) is NULL select 'None' else select liability_status from usr_key_data_srs where entityref = 'DAV000000002415' and matterno = 1

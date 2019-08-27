@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Useful Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="qls-uat-sql01.sr.local\srprod:SGUK\John Mulligan">
+          <Created>2019-04-02T08:26:17.2280605+01:00</Created>
+          <Type>SQL</Type>
+          <Server>qls-uat-sql01.sr.local\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Partner</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="sgs-p4w-sql-t01.sr.local\srprod:SGUK\John Mulligan">
+          <Created>2019-04-12T11:30:58.5261279+01:00</Created>
+          <Type>SQL</Type>
+          <Server>sgs-p4w-sql-t01.sr.local\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="srsql.slatergordon.uk:SGUK\John Mulligan">
+          <Created>2019-03-28T11:11:18.2212915+00:00</Created>
+          <Type>SQL</Type>
+          <Server>srsql.slatergordon.uk</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1 Code to trace case steps backwards.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Code to trace case steps backwards.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1 Query dm docs and answers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1 Query dm docs and answers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="BACS Working Code - AZURE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>BACS Working Code - AZURE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="BACS Working Code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>BACS Working Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Change Name of Document.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Change Name of Document.sql</FullPath>
+        </FileNode>
+        <FileNode Name="COALESCE to check for existence of address fields.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>COALESCE to check for existence of address fields.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CODE RUN BY CONNOR TIKIT TO FIX EAS PARTNER CONNECTION ERROR.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CODE RUN BY CONNOR TIKIT TO FIX EAS PARTNER CONNECTION ERROR.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Compass Costs Exports.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Compass Costs Exports.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Correct Select Query for Agendas Case Items and cm_Steps .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:sgs-p4w-sql-t01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>sgs-p4w-sql-t01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Correct Select Query for Agendas Case Items and cm_Steps .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Delete NULL mattercontacts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:sgs-p4w-sql-t01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>sgs-p4w-sql-t01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Delete NULL mattercontacts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FIX THE PROBLEM WITH THE SLIP PROCESSING MISMATCHED RECORDS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>C:\Users\john mulligan.SGUK\Desktop\FIX THE PROBLEM WITH THE SLIP PROCESSING MISMATCHED RECORDS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get casetypes and groups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get casetypes and groups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get currently  logged in users.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Get currently  logged in users.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get entitytypes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get entitytypes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Client and First Defendant.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get Client and First Defendant.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Set dm_documents.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Get Set dm_documents.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Set Hearing Dates.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Get Set Hearing Dates.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Set Retainer Received.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Get Set Retainer Received.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Set Workstation_locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Get Set Workstation_locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Golive step archiving script.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Golive step archiving script.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Cost Draftsman MC.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Insert Cost Draftsman MC.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert into mp_sys_FieldDef.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Insert into mp_sys_FieldDef.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Limitation Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Limitation Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Password reset script.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:sgs-p4w-sql-t01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>sgs-p4w-sql-t01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Password reset script.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Query Medical Instruction Database.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Query Medical Instruction Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Running a Trace Information - DEV.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Running a Trace Information - DEV.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Send email using msn database email.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Send email using msn database email.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Get Set Case Type Refs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>C:\Users\john mulligan.SGUK\OneDrive - Slater and Gordon\_MAIN SQL SOLUTIONS\Useful SQL SCripts\Useful SQL SCripts\Get Set Case Type Refs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Stays bulk update code.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Stays bulk update code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Temp for a Jira Ticket RUNP4W-98 get rid of as soon as it is finished with.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Temp for a Jira Ticket RUNP4W-98 get rid of as soon as it is finished with.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Temp script for teating the caseitems trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Temp script for teating the caseitems trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Unlock Partner User.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Unlock Partner User.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View Database Logs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>View Database Logs.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

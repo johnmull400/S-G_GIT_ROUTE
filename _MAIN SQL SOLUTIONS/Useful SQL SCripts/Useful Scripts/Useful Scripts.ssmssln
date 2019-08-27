@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 13.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Useful Scripts", "Useful Scripts\Useful Scripts.ssmssqlproj", "{74A37705-71BF-4304-8752-F56E08D174C9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Oft Used Code", "..\..\Oft Used Code\Oft Used Code\Oft Used Code\Oft Used Code.ssmssqlproj", "{33AB599D-7496-4FBE-8883-B8B4D1FA940F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EchoSign Scripts", "..\..\EchoSign Working queries\EchoSign Working queries\EchoSign Scripts\EchoSign Scripts.ssmssqlproj", "{5B36F522-1BC5-41DA-BA4A-64A3498228C8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "WORKING CODE FOR JOBS", "..\..\WORKING CODE FOR JOBS\WORKING CODE FOR JOBS.ssmssqlproj", "{763B7676-DF05-44C9-8710-683B66466BEA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Version Control", "..\..\Version Control\Version Control.ssmssqlproj", "{41B95E9E-8652-48D8-91B4-36D76CFAAB6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A37705-71BF-4304-8752-F56E08D174C9}.Default|Default.ActiveCfg = Default
+		{33AB599D-7496-4FBE-8883-B8B4D1FA940F}.Default|Default.ActiveCfg = Default
+		{5B36F522-1BC5-41DA-BA4A-64A3498228C8}.Default|Default.ActiveCfg = Default
+		{763B7676-DF05-44C9-8710-683B66466BEA}.Default|Default.ActiveCfg = Default
+		{FF76041A-9ED8-48DA-B4D9-E0FA2981B25E}.Default|Default.ActiveCfg = Default
+		{41B95E9E-8652-48D8-91B4-36D76CFAAB6F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

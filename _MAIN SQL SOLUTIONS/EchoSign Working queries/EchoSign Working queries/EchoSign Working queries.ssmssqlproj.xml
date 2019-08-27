@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="EchoSign Working queries">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="qls-uat-sql01\srprod:SILVERBECK\john mulligan">
+          <Created>2017-08-23T10:17:45.3982644+01:00</Created>
+          <Type>SQL</Type>
+          <Server>qls-uat-sql01\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="SGS-P4W-SQL-T01\SRPROD:SILVERBECK\john mulligan">
+          <Created>2018-05-31T12:35:06.7644908+01:00</Created>
+          <Type>SQL</Type>
+          <Server>SGS-P4W-SQL-T01\SRPROD</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="srsql.slatergordon.uk:SILVERBECK\john mulligan">
+          <Created>2019-02-18T09:56:57.5288064+00:00</Created>
+          <Type>SQL</Type>
+          <Server>srsql.slatergordon.uk</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="srsql\srprod:SILVERBECK\john mulligan">
+          <Created>2017-08-31T08:55:57.5165769+01:00</Created>
+          <Type>SQL</Type>
+          <Server>srsql\srprod</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Code to update EchoSign Steps.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Code to update EchoSign Steps.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EchoSign Barcode queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EchoSign Barcode queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="General Working Code.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql.slatergordon.uk:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql.slatergordon.uk</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>General Working Code.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Into FormFields Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:srsql\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>srsql\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Into FormFields Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Into FormFill table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Into FormFill table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Make Letter Global.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Make Letter Global.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tblNewDocuments.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tblNewDocuments.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
