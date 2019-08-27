@@ -1,4 +1,5 @@
 use partner
+-- select the case step you are interested in
 select * from dm_documents where Name = 'Client - Enclosing Settlement Cheque'
 
 select * from dm_documents where name = 'Case Step - Retainer Received'
