@@ -3,7 +3,7 @@ use partner
 -- COLLECTION OF SELECT STATEMENTS FROM DM_DOCUMENTS
 Select MainClassID, * from dm_documents where code = 11354
 
-Select location,emailtemplate,name,* from dm_documents where name like '%Date - Deed of Transfer Outstanding%'
+Select location,emailtemplate,name,* from dm_documents where name like '%Signed%deed%rec%'
 Select Name,location from dm_documents where DocumentType = 11 and name not like 'zz%'
 
 select name from dm_documents where code = 11292

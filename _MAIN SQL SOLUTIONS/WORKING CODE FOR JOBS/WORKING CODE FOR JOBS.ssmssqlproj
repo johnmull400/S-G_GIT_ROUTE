@@ -43,11 +43,11 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="RUN-2292 - Change Request - ATE Provider (ULR to Allianz).sql">
+        <FileNode Name="GET SET ATE Provider Lookup and Values.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:sgs-p4w-sql-t01.sr.local\srprod:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>sgs-p4w-sql-t01.sr.local\srprod</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>RUN-2292 - Change Request - ATE Provider (ULR to Allianz).sql</FullPath>
+          <FullPath>C:\S-G_GIT_ROOT\_MAIN SQL SOLUTIONS\Useful SQL SCripts\Useful Scripts\Useful Scripts\GET SET ATE Provider Lookup and Values.sql</FullPath>
         </FileNode>
         <FileNode Name="RUNP4W-193 Court Hearings.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>

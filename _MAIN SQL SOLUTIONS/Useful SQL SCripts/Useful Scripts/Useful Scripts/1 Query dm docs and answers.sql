@@ -3,7 +3,7 @@ use partner
 -- dm_answers - mergedata
 select distinct mergedata,name , questionnumber,CaseTypeGroupRef, * from dm_answers a 
 inner join dm_documents d on d.code = a.documentcode 
-where mergedata like '%Email - Union Notification of Issue of Court Proceedings%'
+where mergedata like '%Case Step%Transfer File%File Preparation%'
 
 -- dm_answers - gotodata
 select distinct GoToData,name , questionnumber,CaseTypeGroupRef, * from dm_answers a 
@@ -20,7 +20,7 @@ where gotodata like '%?.datediff%21%' and DocumentCode = 9487
 -- dm_questions
 select name,questionnumber,questiontext,CaseTypeGroupRef from dm_questions q  
 inner join dm_documents d on d.code = q.documentcode 
-where questiontext like '%Is%ATE%' order by name,questionnumber
+where questiontext like '%ATE%Trans%' order by name,questionnumber
 
 select * from Casetypegroups
 

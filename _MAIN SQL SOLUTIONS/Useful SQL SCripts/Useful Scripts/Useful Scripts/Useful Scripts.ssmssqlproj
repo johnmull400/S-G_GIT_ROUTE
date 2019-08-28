@@ -133,6 +133,12 @@
           <AssociatedConnUserName />
           <FullPath>Get Client and First Defendant.sql</FullPath>
         </FileNode>
+        <FileNode Name="GET SET ATE Provider Lookup and Values.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>GET SET ATE Provider Lookup and Values.sql</FullPath>
+        </FileNode>
         <FileNode Name="Get Set dm_documents.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
