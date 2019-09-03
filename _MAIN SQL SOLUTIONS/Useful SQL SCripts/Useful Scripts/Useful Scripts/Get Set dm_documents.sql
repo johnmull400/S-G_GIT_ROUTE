@@ -3,8 +3,11 @@ use partner
 -- COLLECTION OF SELECT STATEMENTS FROM DM_DOCUMENTS
 Select MainClassID, * from dm_documents where code = 11354
 
-Select location,emailtemplate,name,* from dm_documents where name like '%Signed%deed%rec%'
+Select location,emailtemplate,name,* from dm_documents where name like '%court - Particulars%%'
 Select Name,location from dm_documents where DocumentType = 11 and name not like 'zz%'
+
+Select location,emailtemplate,name,* from dm_documents where location = '\\qls-uat-fs01.sr.local\Partner\Template\srs_template\court - particulars of claim.doc'
+
 
 select name from dm_documents where code = 11292
 

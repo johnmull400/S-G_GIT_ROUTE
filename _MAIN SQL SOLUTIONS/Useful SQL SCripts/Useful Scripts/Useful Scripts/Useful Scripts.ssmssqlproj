@@ -67,6 +67,12 @@
           <AssociatedConnUserName />
           <FullPath>BACS Working Code.sql</FullPath>
         </FileNode>
+        <FileNode Name="Calls Steve Barrie's SP to search Partner.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:qls-uat-sql01.sr.local\srprod:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>qls-uat-sql01.sr.local\srprod</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Calls Steve Barrie's SP to search Partner.sql</FullPath>
+        </FileNode>
         <FileNode Name="Change Name of Document.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />

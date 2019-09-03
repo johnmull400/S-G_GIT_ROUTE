@@ -3,12 +3,12 @@ use partner
 -- dm_answers - mergedata
 select distinct mergedata,name , questionnumber,CaseTypeGroupRef, * from dm_answers a 
 inner join dm_documents d on d.code = a.documentcode 
-where mergedata like '%Case Step%Transfer File%File Preparation%'
+where mergedata like '%coalesce%'
 
 -- dm_answers - gotodata
 select distinct GoToData,name , questionnumber,CaseTypeGroupRef, * from dm_answers a 
 inner join dm_documents d on d.code = a.documentcode 
-where GoToData like '%Email - Union Notification of Issue of Court Proceedings%' order by d.name 
+where GoToData like '%coalesce%' order by d.name 
 
 
 
